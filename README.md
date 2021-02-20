@@ -1,6 +1,6 @@
 # 007-python-packages
 
-Code to video 007: Python packages: from minimal to professional
+Code to video 007: Python packages: quick and easy
 
 
 ## Python package templates
